@@ -1,0 +1,27 @@
+#######################################
+# Syntax Coloring Map LCDdogmSPI
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+LCDdogmSPI KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+clear 		KEYWORD2
+commandWrite 	KEYWORD2
+cursorTo 	KEYWORD2
+init 		KEYWORD2
+print 		KEYWORD2
+dataWrite		KEYWORD2
+printIn 	KEYWORD2
+commandWriteNibble 	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
